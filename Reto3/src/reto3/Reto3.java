@@ -11,13 +11,7 @@ import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 import javax.swing.SwingUtilities;
-/**
- * Nombre: David Emmanuel Kantún Marín
- * Matrícula: 22032378
- * Módulo: Tópicos Avanzados de Programación v2
- * Asesor: Andrés Espinal Jiménez
- * Fecha: 20 de abril de 2024
- */
+
 public class Reto3 extends JFrame {
 
     public static void main(String[] args) {

@@ -4,13 +4,6 @@
  */
 package AthleticRaceInterface;
 
-/**
- * Nombre: David Emmanuel Kantún Marín
- * Matrícula: 22032378
- * Módulo: Tópicos Avanzados de Programación v2
- * Asesor: Andrés Espinal Jiménez
- * Fecha: 25 de abril de 2024
- */
 public class AthleticRaceInterface {
 
     public static void main(String[] args) {

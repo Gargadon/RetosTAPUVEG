@@ -4,13 +4,6 @@
  */
 package calculadora;
 
-/**
- * Nombre: David Emmanuel Kantún Marín
- * Matrícula: 22032378
- * Módulo: Tópicos Avanzados de Programación v2
- * Asesor: Andrés Espinal Jiménez
- * Fecha: 12 de abril de 2024
- */
 public class Calculadora{
 
     public static void main(String[] args) {

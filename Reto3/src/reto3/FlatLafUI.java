@@ -20,13 +20,6 @@ import javax.swing.JTextField;
 import javax.swing.UIManager;
 import javax.swing.UnsupportedLookAndFeelException;
 
-/**
- * Nombre: David Emmanuel Kantún Marín
- * Matrícula: 22032378
- * Módulo: Tópicos Avanzados de Programación v2
- * Asesor: Andrés Espinal Jiménez
- * Fecha: 20 de abril de 2024
- */
 public class FlatLafUI extends JFrame {
 
     public FlatLafUI() {

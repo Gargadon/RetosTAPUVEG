@@ -14,13 +14,6 @@ import javax.swing.JPanel;
 import javax.swing.JTextArea;
 import javax.swing.JTextField;
 
-/**
- * Nombre: David Emmanuel Kantún Marín
- * Matrícula: 22032378
- * Módulo: Tópicos Avanzados de Programación v2
- * Asesor: Andrés Espinal Jiménez
- * Fecha: 25 de abril de 2024
- */
 public class Interfaz extends JFrame {
     static String resultado = "";
     static JTextArea resultados;

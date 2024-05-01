@@ -6,14 +6,6 @@ package AthleticRaceInterface;
 
 import static java.lang.Math.random;
 
-
-/**
- * Nombre: David Emmanuel Kantún Marín
- * Matrícula: 22032378
- * Módulo: Tópicos Avanzados de Programación v2
- * Asesor: Andrés Espinal Jiménez
- * Fecha: 25 de abril de 2024
- */
 public class ThreadRunner implements Runnable {
 
     private final String nombreCorredor;
